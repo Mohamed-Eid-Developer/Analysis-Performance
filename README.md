@@ -1,4 +1,4 @@
-# Project Name / Power BI Technical Report
+# Power BI Technical Report
 
 ## Overview
 This repository contains structural configurations, layouts, and data models for a Business Intelligence / Reporting solution. It includes visual schemas, security settings, and theme definitions designed to deliver standardized analytics and reporting.
